@@ -1,1 +1,1 @@
-# corrige-plus
+# Corrige+ - Sistema de Correção Automática de Provas
